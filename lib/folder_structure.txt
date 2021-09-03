@@ -1,0 +1,34 @@
+lib/
+    utils/
+    widgets/
+    models/
+        annonce.dart
+        client.dart
+        reservation.dart
+        ...
+    services/
+        annonce.dart
+        client.dart
+        reservation.dart
+        ...
+    notifiers/
+        annonce.dart
+        client.dart
+        reservation.dart
+        ...
+    screens/
+        onboarding/
+            screen1.dart
+            screen2.dart
+        annonce/
+            annonce_view.dart
+            annonce_list.dart
+            annonce_detail.dart
+        chat/
+            message.dart
+            message_list.dart
+        reservation/
+            reservation_client.dart
+            reservation_confirmation.dart
+            ...
+        
